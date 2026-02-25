@@ -13,7 +13,7 @@
   "disablePowerButton": false,
   "volumeLicenseKey": "UTNQVY8BLR",
 
-  "mdmApkToInstall": "https://comact2.sharepoint.com/:u:/s/Intgration/IQARfpgpWMNPQIb9dHjrgaUdAXe2H3-pwJc7szhYKeifp4s?e=zZrZeW&download=1,https://download.anydesk.com/android/plugins/adcontrol-ad1.apk,https://comact2.sharepoint.com/:u:/s/Intgration/IQAKdYbllGWgTZ38mc4Sd6FdAa9cfRqH2WMnSnxkjv80yBw?e=lBxHBr&download=1",
+  "mdmApkToInstall": https://download.anydesk.com/android/plugins/adcontrol-ad1.apk,
 
   "mdmSystemAppsToEnable": "com.anydesk.anydeskandroid.custom",
 
@@ -25,4 +25,5 @@
   "enableVersionInfo": false,
   "showMenuHint": false
 }
+
 
