@@ -13,7 +13,7 @@
   "disablePowerButton": false,
   "volumeLicenseKey": "UTNQVY8BLR",
 
-  "mdmApkToInstall": https://download.anydesk.com/android/plugins/adcontrol-ad1.apk,
+  "mdmApkToInstall": "https://download.anydesk.com/android/plugins/adcontrol-ad1.apk",
 
   "mdmSystemAppsToEnable": "com.anydesk.anydeskandroid.custom",
 
@@ -25,5 +25,6 @@
   "enableVersionInfo": false,
   "showMenuHint": false
 }
+
 
 
