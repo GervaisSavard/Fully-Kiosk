@@ -4,13 +4,7 @@
   "startURL": "https://www.comact.com/",
   "disableOtherApps": false,
 
-  "launcherApps": [
-    {
-      "label": "Comact | Leader in Transformational Wood Processing",
-      "url": "https://www.comact.com",
-      "iconUrl": "https://www.comact.com/wp-content/uploads/2024/09/crop.png"
-    }
-  ],
+  "launcherApps": "[{\"label\":\"Comact | Leader in Transformational Wood Processing\",\"url\":\"https://www.comact.com\",\"iconUrl\":\"https://www.comact.com/wp-content/uploads/2024/09/crop.png\"}]",
 
   "keepScreenOn": true,
   "kioskMode": true,
@@ -19,20 +13,7 @@
   "disablePowerButton": false,
   "volumeLicenseKey": "UTNQVY8BLR",
 
-  "mdmDisableStatusBar": true,
-  "mdmDisableSafeModeBoot": true,
-  "mdmDisableAppsFromUnknownSources": false,
-  "mdmDisableADB": true,
-  "mdmRuntimePermissionPolicy": "1",
-  "mdmSystemUpdatePolicy": "0",
-  "mdmPasswordQuality": "0",
-  "mdmMinimumPasswordLength": "4",
-
-  "mdmApkToInstall": [
-    "https://comact2.sharepoint.com/:u:/s/Intgration/IQARfpgpWMNPQIb9dHjrgaUdAXe2H3-pwJc7szhYKeifp4s?download=1",
-    "https://download.anydesk.com/android/plugins/adcontrol-ad1.apk",
-    "https://comact2.sharepoint.com/:u:/s/Intgration/IQAKdYbllGWgTZ38mc4Sd6FdAa9cfRqH2WMnSnxkjv80yBw?download=1"
-  ],
+  "mdmApkToInstall": "https://tonlien1.apk,https://download.anydesk.com/android/plugins/adcontrol-ad1.apk,https://tonlien2.apk",
 
   "mdmSystemAppsToEnable": "com.anydesk.anydeskandroid.custom",
 
